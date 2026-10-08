@@ -1,0 +1,12 @@
+{
+  "pages_checked": 31,
+  "viewport_checks": 93,
+  "overflows": [],
+  "javascript_errors": [],
+  "mobile_navigation": "PASS",
+  "dropdown": "PASS",
+  "faq": "PASS",
+  "form_validation": "PASS",
+  "email_draft": "PASS",
+  "local_link_check": "PASS (no missing local link/asset targets)"
+}
